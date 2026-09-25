@@ -40,10 +40,10 @@ display: none;
 /* Start */
 
 .container1 {
-min-height: 100vh;
-background-image: url("/negative-space-black-forest-dawn.jpg");
-background-size: cover;
-background-position: center;
+    min-height: 100vh;
+    background-image: url("negative-space-black-forest-dawn.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .text1 {
