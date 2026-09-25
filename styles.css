@@ -41,7 +41,7 @@ display: none;
 
 .container1 {
 min-height: 100vh;
-background-image: url("/Images/negative-space-black-forest-dawn.jpg");
+background-image: url("./negative-space-black-forest-dawn.jpg");
 background-size: cover;
 background-position: center;
 }
